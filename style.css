@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Niconne&display=swap');
 
 :root {
   /* dark shades of primary color*/
@@ -32,7 +32,7 @@
   --clr-green-dark: hsl(125, 67%, 44%);
   --clr-green-light: hsl(125, 71%, 66%);
   --clr-black: #222;
-  --ff-primary: "Roboto", sans-serif;
+  --ff-primary:  'Niconne', cursive;;
   --ff-secondary: "Open Sans", sans-serif;
   --transition: all 0.3s linear;
   --spacing: 0.25rem;
@@ -45,6 +45,9 @@
 .he {
   padding: 10px;
 }
+/* body {
+  font-family: 'Niconne', cursive;
+} */
 .navbar {
   box-shadow: var(--dark-shadow);
 }

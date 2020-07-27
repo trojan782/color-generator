@@ -66,6 +66,7 @@ const colors = [
   "LavenderBlush",
   "LawnGreen",
   "LemonChiffon",
+  "LemonGreen"
   "LightBlue",
   "LightCoral",
   "LightCyan",
